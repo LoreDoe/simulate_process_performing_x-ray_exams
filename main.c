@@ -34,7 +34,7 @@ void mainHospital()
 
 int main()
 {
-    // chamada da função
+    // Chamada da função.
     mainHospital();
 
     return 0;
